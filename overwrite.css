@@ -1,0 +1,17 @@
+.btn-overwrite{
+    background-color: #BF7E40;
+}
+
+.btn-overwrite:hover{
+    background-color: beige;
+    color: black;
+}
+
+.contact-section .card{
+    background-color: antiquewhite;
+    color: black;
+}
+
+.contact-p{
+    color: black !important;
+}
